@@ -1,0 +1,12 @@
+Feature,UniqueValueCount
+step,743
+type,5
+amount,14547645
+nameOrig,11464100
+oldbalanceOrg,15636160
+newbalanceOrig,17878751
+nameDest,8219031
+oldbalanceDest,20014124
+newbalanceDest,12795992
+isFraud,2
+isFlaggedFraud,2

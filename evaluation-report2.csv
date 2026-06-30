@@ -1,0 +1,5 @@
+Algorithm,Accuracy,Precision,Recall,AUC-ROC
+Logistic Regression,0.9987,0.9974,0.9987,0.5000
+Decision Tree,0.9987,0.9974,0.9987,0.5000
+Naïve Bayes,0.9987,0.9974,0.9987,0.5030
+Random Forest,0.5049,0.9975,0.5049,0.5095

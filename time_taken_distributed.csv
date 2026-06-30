@@ -1,0 +1,5 @@
+Algorithm,Training Time (s)
+Logistic Regression,111.81
+Decision Tree,335.68
+Naïve Bayes,38.34
+Random Forest,1007.81
